@@ -1,0 +1,27 @@
+
+
+.success {
+    color: green;
+}
+
+.nicebox {
+    border: none;
+    background-color: #282c34;
+    border-bottom: 2px solid rgba(2, 247, 247, 0.918);
+    width: 300px;
+    color: white;
+    outline: none;
+    font-size: x-large;
+}
+
+.nicebutton {
+    border-radius: 10px;
+    background-color: aqua;
+    font-size: xx-large;
+    transition-duration: 0.5s;
+
+}
+
+.nicebutton:hover {
+    background-color: rgb(2, 238, 2);
+}
